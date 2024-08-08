@@ -20,6 +20,7 @@ dev_dependencies:
     sdk: flutter
 
 
+  mixpanel_example: any
 flutter:
   uses-material-design: true
 
